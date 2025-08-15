@@ -1,0 +1,21 @@
+{ "name": "apt-cacher-offline-replay",
+  "version": "0.0.0",
+  "description": "Wrap `/usr/lib/apt/methods/http` to pretend to download stuff but try to cope without actual networking.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/apt-cacher-offline-replay/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/apt-cacher-offline-replay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/apt-cacher-offline-replay/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "ISC",
+
+
+  "engines": { "bash": ">=5.0.0" }
+}
